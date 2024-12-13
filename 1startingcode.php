@@ -50,6 +50,8 @@
             <li><a href='editUser.php'>Edit User</a></li>   
             <li><a href='profilePage.php'>Profile</a></li>
             <li><a href='aboutUsPage.php'>About Us</a></li>
+            <li><a href='login.php'>Sign out</a></li>
+
 
         </ul>
     </nav>
@@ -61,6 +63,8 @@
             <li><a href='UsersPage.php'>Users</a></li>   
             <li><a href='profilePage.php'>Profile</a></li>
             <li><a href='aboutUsPage.php'>About Us</a></li>
+            <li><a href='login.php'>Sign out</a></li>
+
         </ul>
     </nav>
     <?php endif; ?>
