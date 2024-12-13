@@ -47,7 +47,7 @@
             <li><a href='editTasksPage.php'>Edit Task</a></li>
             <li><a href='UsersPage.php'>Users</a></li>   
             <li><a href='createUser.php'>Create User</a></li>   
-            <li><a href='editUser.php'>Edit Task</a></li>   
+            <li><a href='editUser.php'>Edit User</a></li>   
             <li><a href='profilePage.php'>Profile</a></li>
             <li><a href='aboutUsPage.php'>About Us</a></li>
 
